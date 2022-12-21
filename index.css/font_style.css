@@ -1,0 +1,10 @@
+.style-question{
+    font-size: 14px;
+    color: hsl(237, 12%, 33%);
+    cursor: pointer;
+}
+
+.style-anwers{
+    font-size: 12px;
+    color: hsl(240, 6%, 50%);
+}

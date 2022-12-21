@@ -1,0 +1,20 @@
+.image-size-box{
+    margin-top: -100%;
+    margin-left: -100%;
+}
+
+.image-size-bg{
+    width: 450px;
+    height: 410px;
+    margin-bottom: -20%;
+    margin-left: -40%;
+    overflow-x: hidden;
+}
+
+.image-size-desk{
+    margin-left: -25%;
+    margin-top: -85%;
+    width: 400px;
+    z-index: -200;
+    overflow: hidden;
+}

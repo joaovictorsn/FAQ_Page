@@ -1,0 +1,33 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(240, 5%, 91%);
+    border-radius: 50px;
+    box-shadow: 15px 100px 100px  hsl(238, 37%, 38%);
+}
+
+.images{
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.block-to-FAQ{
+    margin-left: 2%;
+    margin-right: 3%;
+    margin-top: 5%;
+    inline-size: 40%;
+}
+
+.diviser{
+    border-bottom: 1px hsl(240, 5%, 91%);
+}
+
+.boder{
+    border: 1px hsl(240, 5%, 91%);
+}
+
+.arrow{
+    cursor: pointer;
+}
+
