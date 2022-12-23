@@ -31,3 +31,15 @@
     cursor: pointer;
 }
 
+.display-none{
+    display: none;
+}
+
+.show-txt .display-none{
+    display: block;
+}
+.style-diviser{
+    color: hsl(240, 5%, 91%);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
